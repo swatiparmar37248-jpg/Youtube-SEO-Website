@@ -1,0 +1,6 @@
+{
+  "name": "YouTube SEO & Content Assistant",
+  "description": "Optimize your YouTube presence with AI-generated titles, thumbnail ideas, descriptions, tags, and SEO analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
